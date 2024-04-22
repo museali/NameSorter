@@ -8,5 +8,5 @@
 > Make sure the build is passing.
 > In your terminal, navigate to the following directory NameSorter\bin\Debug.
 > Here you find the text file where we will get the sorted names from 'unsorted-names-list.txt'.
-> Run the application in your terminal with the following command name-sorter ./unsorted-names-list.txt.
+> Run the application in your terminal with the following command " NameSorter ./unsorted-names-list.txt" or ".\NameSorter unsorted-names-list.txt".
 > In the same directory a file named 'sorted-names-list.txt' is created.
